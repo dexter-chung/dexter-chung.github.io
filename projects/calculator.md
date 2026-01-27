@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/java_logo.png
 title: "Stack Calculator"
 date: 2024
 published: true
