@@ -20,24 +20,24 @@ For this project it was a individual assignment so I did it by myself. This proj
 
 ```cpp
 while(true) {
-			String input = scanner.nextLine().trim();
-			if(input.equals("=")) {
-				System.out.print("exiting calculator");
-				break;
-			}
+	String input = scanner.nextLine().trim();
+	if(input.equals("=")) {
+		System.out.print("exiting calculator");
+		break;
+	}
 			
-			try {
-				if("+-*/%^".contains(input)) {
-					process(input);
-				}else if(isNumber(input)){
-					double value = Double.parseDouble(input);
-					stack.push(value);
-					System.out.println(value);
-				}else {
-					System.out.println("invalid input");
-				}
-			}catch (Exception e) {
-				System.out.print("error " + e.getMessage());
-			}
+	try {
+		if("+-*/%^".contains(input)) {
+			process(input);
+		}else if(isNumber(input)){
+			double value = Double.parseDouble(input);
+			stack.push(value);
+			System.out.println(value);
+		}else {
+			System.out.println("invalid input");
 		}
+	}catch (Exception e) {
+		System.out.print("error " + e.getMessage());
+	}
+}
 ```
