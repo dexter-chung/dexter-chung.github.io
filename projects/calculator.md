@@ -18,6 +18,8 @@ This program was made for my ICS 211 in which was made in eclipse using Java. Fo
 
 For this project it was a individual assignment so I did it by myself. This project helped me to develop my skills in Java.
 
+
+
 ```cpp
 while(true) {
 	String input = scanner.nextLine().trim();
