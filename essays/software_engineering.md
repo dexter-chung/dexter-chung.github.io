@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Developing my skills in Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2026-27-01
+date: 2026-01-27
 published: true
 labels:
   - Software Engineering
