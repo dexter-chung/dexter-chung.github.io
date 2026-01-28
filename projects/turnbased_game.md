@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/micromouse/intellij_logo.jpg
 title: "Turn Based Game"
 date: 2015
 published: True
