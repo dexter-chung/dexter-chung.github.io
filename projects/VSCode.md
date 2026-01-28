@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Micromouse"
-date: 2015
+date: 2025
 published: false
 labels:
   - Robotics
@@ -18,21 +18,38 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+In this project 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
+Here is some code that illustrates how user input is read:
 
 ```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
+std::string input;
+while(1){
+  std::cout << "1. Add Student\n2. Add Course\n3. Register Student for Course\n4. View all Students\n5. Delete a Student\n6. View Enrolled              Students in a Course\n7. Search for a Student\n";
+  std::cout << "Choice: ";
+  std::getline(std::cin,input);
+  std::cout << "\n";
+  if(input == "1"){
+    if(addStudent(studentNum,students)){
+      studentNum++;
     }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
+  }else if (input == "2"){
+    if(addCourse(courseNum,courses)){
+      courseNum++;
+    }
+  }else if (input == "3"){
+    registration(studentNum,students,courseNum,courses);
+  }else if (input == "4"){
+    viewallStudents(studentNum,students);
+  }else if (input == "5"){
+    if(deleteStudent(studentNum,students,courseNum,courses)){
+      studentNum--;
+    }
+  }else if (input == "6"){
+    viewenrolledStudents(courseNum,courses);
+  }else if (input == "7"){
+    findStudent(studentNum,students);
+  }
 }
 ```
 
