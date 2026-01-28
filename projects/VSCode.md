@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
+title: "A"
 date: 2025
 published: false
 labels:
@@ -18,7 +18,9 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-In this project 
+For this project it was made in Visual Studio Code using C++. This project was about making a system that would store student and course information. 
+
+This project was done by myself 
 
 Here is some code that illustrates how user input is read:
 
