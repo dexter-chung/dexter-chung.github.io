@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/intellij_logo.jpg
+image: img/intellij_logo.png
 title: "Turn Based Game"
 date: 2015
 published: True
