@@ -10,10 +10,6 @@ labels:
 summary: "A calculator that uses the Stack Class to process operators and numbers"
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/eclipse_logo.png" class="img-thumbnail" >
-</div>
-
 This program was made for my ICS 211 in which was made in eclipse using Java. For the basics on how it works, it will prompt the user to input either a number or a operator. If a number is given then it will be placed onto the top of a stack. If a operator was given then it will try to take the two numbers from the top of the stack and use them with the operator to produce a new number which returns to the top of the stack. 
 
 For this project it was a individual assignment so I did it by myself. This project helped me gain a better understanding of a Stack data structure and the uses for it.
