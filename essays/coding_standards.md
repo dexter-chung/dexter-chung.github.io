@@ -9,7 +9,7 @@ labels:
   - Engineering
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/difficulty/eslint_logo.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/eslint_logo.png">
 
 ## First Impression
 
