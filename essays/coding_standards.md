@@ -4,7 +4,7 @@ type: essay
 title: "Coding Standards Reflection"
 # All dates must be YYYY-MM-DD format!
 date: 2026-02-12
-published: false
+published: true
 labels:
   - Engineering
 ---
