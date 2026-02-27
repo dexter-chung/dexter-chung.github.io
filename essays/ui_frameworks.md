@@ -14,5 +14,9 @@ As of writing this essay I find that learning and trying to use Bootstrap 5 can 
 
 ## Bootstrap 5 usage
 
-<img width="300px" class="rounded float-start pe-4" src="../img/browser-bootstrap.png">
-<img width="300px" class="rounded float-start pe-4" src="../img/browser-column.png">
+In the top image, it is a website that was made using regular html and css, in the bottom image, it is a website that was made with Bootstrap 5. After the development of these two websites I found that it was much easier making the bottom website as classes like the navbar really helped. There is also the fact that the one with bootstrap 5 looks more evenly spaced and organized.
+
+<img width="400px" class="rounded float-start pe-4" src="../img/browser-column.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/browser-bootstrap.png">
+
+ 
