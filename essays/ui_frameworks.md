@@ -14,4 +14,5 @@ As of writing this essay I find that learning and trying to use Bootstrap 5 can 
 
 ## Bootstrap 5 usage
 
-
+<img width="300px" class="rounded float-start pe-4" src="../img/browser-bootstrap.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/browser-column.png">
