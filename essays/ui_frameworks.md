@@ -17,7 +17,7 @@ As of writing this essay I find that learning and trying to use Bootstrap 5 can 
 
 ## Bootstrap 5 usage
 
-In the right image, it is a website that was made using regular html and css, in the left image, it is a website that was made with Bootstrap 5. After the development of these two websites I found that it was much easier making the left website as classes like the navbar really helped. There is also the fact that the one with bootstrap 5 looks more evenly spaced and organized.
+In the left image, it is a website that was made using regular html and css, in the right image, it is a website that was made with Bootstrap 5. After the development of these two websites I found that it was much easier making the right website as classes like the navbar and justify-content really helped. There is also the fact that the one with bootstrap 5 looks more evenly spaced and organized.
 
 
 
