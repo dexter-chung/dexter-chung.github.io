@@ -11,6 +11,9 @@ labels:
 
 ## The Blueprints For Coding
 
-When doing a big project it is important to have it planned out on each step. 
+Lets say for example, there is a situation where a person wants to build a house but not quite sure how to build the roof, instead of basically doing the eqivalent of trying to reinvent the wheel and trying to plan it all out from scratch, you can look at a blueprint in which already works and suits what you wanted. 
 
+
+
+In this example, it is very similar to Design Patterns in which they are the blueprints for coding. It is a template in which can be used for recurring issues. An example of its application 
 
