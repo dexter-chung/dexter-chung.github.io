@@ -15,5 +15,7 @@ Lets say for example, there is a situation where a person wants to build a house
 
 <img width="300px" class="rounded float-start pe-4" src="../img/brooklynjohn-blueprint-370588.jpg">
 
-In this example, it is very similar to Design Patterns in which they are the blueprints for coding. It is a template in which can be used for recurring issues. An example of its application can be shown in my own project where for example I wanted to make a search bar for my UI. Instead of having to trying to make it for scratch, I can look at already preexisting ones and alter it to fit what I wanted.
+In this example, it is very similar to Design Patterns in which they are the blueprints for coding. Over time, developers would have encountered the same structural problems. But through the documentation of reccuring issues they can make reusable approaches so that if anyone else faces the same problem, they won't have to do it from scratch.
+
+An example of its application can be shown in my own project where for example I wanted to make a search bar for my UI. Instead of having to trying to make it for scratch, I can look at already preexisting ones and alter it to fit what I wanted.
 
