@@ -4,7 +4,7 @@ type: essay
 title: "Effort Estimation"
 # All dates must be YYYY-MM-DD format!
 date: 2026-05-03
-published: true
+published: false
 labels:
   - Software Engineering
 ---
