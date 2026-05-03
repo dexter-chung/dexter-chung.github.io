@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Design Patterns"
+title: "Effort Estimation"
 # All dates must be YYYY-MM-DD format!
-date: 2026-04-30
+date: 2026-05-03
 published: true
 labels:
   - Software Engineering
