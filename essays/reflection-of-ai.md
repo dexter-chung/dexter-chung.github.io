@@ -8,3 +8,7 @@ published: false
 labels:
   - Engineering
 ---
+
+# Introduction
+
+With the introduction AI it has become so much easier to find the answers you need online. 
