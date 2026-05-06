@@ -17,7 +17,7 @@ As artificial intelligence continues to become increasingly common in our daily 
 
 ## 1.Experience WODs
 
-For experience WODs, the time I ever usually use AI is when I am 
+For experience WODs, the time I ever usually use AI is when I am making a new file and I need to figure out what dependencies I need to install or commands I need to run so that when I start coding things will work as intended, for example Eslint. A breif example of this is usually 
 
 ## 2.In-class Practice WODs
 
@@ -25,7 +25,11 @@ For experience WODs, the time I ever usually use AI is when I am
 
 ## 4.Essays
 
+When I am doing my essays I almost never use AI to help me with this type of course element. Even though sometimes the writing assignments can feel difficult to me I think that it is better that I do the writings on my own. As it reflects my own writing skills and also let me be able to more accurately show what I am writing about. Using AI tools can be helpful in this task but they don't always give out the answer you are expecting or want. If I ever use AI for this, it would usually be for spelling and grammar checks.
+
 ## 5.Final Project
+
+When working on the Final Project there was a lot of things I had to do such as setting up the initial files, compiling the database, making website pages, and helping my teamates compile their own code into main. The use of AI made these list of tasks I needed to do much easier. Most of the time though, when I am trying to compile my teamates code to main I use AI to help me understand what does what as we all can have different methods for coding things.
 
 ## 6.Learning a concept/tutorial
 
