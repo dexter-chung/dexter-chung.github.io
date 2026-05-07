@@ -17,7 +17,7 @@ As artificial intelligence continues to become increasingly common in our daily 
 
 ## 1.Experience WODs
 
-For experience WODs, the time I ever usually use AI is when I am making a new file and I need to figure out what dependencies I need to install or commands I need to run so that when I start coding things will work as intended, for example Eslint. A breif example of this is usually 
+For experience WODs, the time I ever usually use AI is when I am making a new file and I need to figure out what dependencies I need to install or commands I need to run so that when I start coding things will work as intended, for example installing Eslint.
 
 ## 2.In-class Practice WODs
 
