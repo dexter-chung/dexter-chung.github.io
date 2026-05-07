@@ -53,11 +53,19 @@ For answering or asking a smart-question, most of the time I perfer to try find 
 
 ## 10.Explaining code
 
+
+
 ## 11.Writing code
+
+
 
 ## 12.Documenting code
 
+
+
 ## 13.Quality assurance
+
+
 
 ## 14.Other uses in ICS 314 not listed
 
