@@ -49,26 +49,27 @@ For answering or asking a smart-question, most of the time I perfer to try find 
 
 ## 9.Coding example
 
-
+Whenever I have trouble learning a concept I do sometimes use AI to give me coding examples of it to help me better understand what it does or is. An example of this could be when I was initially trying to figure out how functions in the dbaction file can work with buttons.
 
 ## 10.Explaining code
 
-
+For explaining code, I do use AI, some applications is when I have to assist my teammates during the Final Project for a certain task but most of the time the way we code are quite different so using AI helps me get a better understanding of what their code is doing. Another application is also getting the AI to explain the code they provided as examples.
 
 ## 11.Writing code
 
-
+For writing code, as previously said in the other course elements such as the WODs or the Final Project I do occasinally use AI to help me write code. 
 
 ## 12.Documenting code
 
-
+Using AI to document helped in making clear explaination for what and how things worked. It also made this process of documenting way more faster so that I could focus on other things.
 
 ## 13.Quality assurance
 
-
+For this course element, I do sometimes use AI for quality assurance when it comes to issues such as debugging and Eslint.
 
 ## 14.Other uses in ICS 314 not listed
 
+Overall I think that all the other sections already covers what I would use AI for in ICS 314 so there isn't any other uses in ICS 314 that hasn't already been listed.
 
 # Impact on Learning and Understanding
 
