@@ -37,7 +37,7 @@ When working on the Final Project there was a lot of things I had to do such as 
 
 ## 6.Learning a concept/tutorial
 
-When learning a concept or tutorial I do sometimes use AI to help me. It is usually when
+When learning a concept or tutorial I do sometimes use AI to help me. It is usually when I find trouble trying to understand something, like for example how to use pgAdmin 4.
 
 ## 7.Answering a question in class or in Discord
 
