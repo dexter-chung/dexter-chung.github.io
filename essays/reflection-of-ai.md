@@ -21,7 +21,11 @@ For experience WODs, the time I ever usually use AI is when I am making a new fi
 
 ## 2.In-class Practice WODs
 
+For In-class Practice WODs, it is pratically the same as the Experience WODs, but every now and then I would use AI to help me debug errors that I may be struggling on.
+
 ## 3.In-class WODs
+
+For In-class WODs, it is exactly the same thing as In-class Practice WODs.
 
 ## 4.Essays
 
