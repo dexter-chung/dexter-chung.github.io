@@ -37,9 +37,15 @@ When learning a concept or tutorial I do sometimes use AI to help me. It is usua
 
 ## 7.Answering a question in class or in Discord
 
+I never really used AI to answer questions in class or in Discord. Before the Final Project most of the questions I have been asked if ever is how to do certain assignments which are easy to answer and there would be no reason to use AI. During the Final Project every now and then my teammates would ask me questions but they also don't really need AI to be answered also.
+
 ## 8.Asking or answering a smart-question
 
+For answering or asking a smart-question, most of the time I perfer to try find the answer to the questions I have myself so I never really needed to ask a smart-question, and for the latter I never really answer smart-questions that are asked on discord. 
+
 ## 9.Coding example
+
+
 
 ## 10.Explaining code
 
@@ -50,6 +56,8 @@ When learning a concept or tutorial I do sometimes use AI to help me. It is usua
 ## 13.Quality assurance
 
 ## 14.Other uses in ICS 314 not listed
+
+
 # Impact on Learning and Understanding
 
 
