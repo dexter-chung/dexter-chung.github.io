@@ -69,21 +69,30 @@ For this course element, I do sometimes use AI for quality assurance when it com
 
 ## 14.Other uses in ICS 314 not listed
 
-Overall I think that all the other sections already covers what I would use AI for in ICS 314 so there isn't any other uses in ICS 314 that hasn't already been listed.
+I think that all the other sections already covers what I would use AI for in ICS 314 so there isn't any other uses in ICS 314 that hasn't already been listed.
 
 # Impact on Learning and Understanding
 
+Overall the usage of AI has been very helpful in my learning experience during this course. It helped made the process of learning new things a lot more easier and more time efficient. What usually would take quite a bit of time to search things up was made less tedious. When I use AI for something like debugging I always make sure that I understand what changes the AI made and what it does. When a solution given does work I make sure to take note of that, so if I come across the same issue again I will know how to do it by myself. For whether AI challenged or enchanced my understanding of software engineer concepts, I think that it enhanced it more than challenged since as stated I don't just give a prompt and copy the answer given, I try to understand what the AI gave before actaully using it.
 
 # Practical Applications
 
+Besides the application of using AI in the ICS 314 course, another instance I have used this is for a personal project. The project was mostly about making a simple game in godot, but just like the Final Project or the WODs I mostly used it as a way to help me debug my code.
 
 # Challenges and Opportunities
 
+One of the biggest challenges I have faced with AI during this course is that when getting help for AI, it will come with zero knowledge of what you are working on.  For example it wouldn't know what code editing software you are using or the structure of your files. This could lead to AI giving an answer to a problem that probably dosen't work with your code in the first place.
+
+Beside the challenges, AI can be a great tool in software engineering education. It can give precise answers to questions regarding coding if given the correct prompt so it is much easier to learn new concepts.
 
 # Comparative Analysis
 
+In traditional teaching methods such as looking a prerecored lectures or having to do some research, while for AI-enhanced approachs all you need to do is give a prompt and the AI will immediately provide a answer. But dispite AI-enhanced approaches being the faster out of the two when looking for answers, it is probably less likely that the person will be able to retain the knowledge for it.
 
 # Future Considerations
 
+In the future I think that AI will become more common in software engineering education. One thing that should be greatly considered though is that even with how efficient and fast someone can get answers for AI, there is also a higher probability that they wouldn't learn much from it.
 
 # Conclusion
+
+AI can be used as a great learning tool depending on how you use it. It is important to understand not only how to use but also 
