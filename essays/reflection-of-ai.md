@@ -95,4 +95,4 @@ In the future I think that AI will become more common in software engineering ed
 
 # Conclusion
 
-AI can be used as a great learning tool depending on how you use it. It is important to understand not only how to use but also 
+AI can be used as a great learning tool depending on how you use it. It is important to understand not only how to use it, but also how to think critically about the information it provides. When used responsibly, AI can help people learn faster and improve understanding of topics.
