@@ -3,11 +3,12 @@ layout: essay
 type: essay
 title: "Reflecting on Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2026-13-05
-published: false
+date: 2026-05-14
+published: true
 labels:
-  - Engineering
+  - Software Engineering
 ---
+# Introduction
 
 As this semester comes to a close, looking back at this class, it was definetly more than I had expected. We went over a lot of different topics that surrounded software engineering such as configuration management or design patterns. Where they not only can be applied to software engineering but also other areas as well.
 
