@@ -21,4 +21,4 @@ The second thing that I learned from this course is Agile Project Management in 
 
 # Design Patterns
 
-Lastly the other thing I learned from this course is the approach of Design Patterns. In which 
+Lastly the other thing I learned from this course is the approach of Design Patterns. In which is the approach of making solutions to commonly occuring problems. Some commonly occuring problems could be installing the correct dependencies for making a new project. It helps get rid of the tedious process of having to come up with a solution yourself when one already exists.
